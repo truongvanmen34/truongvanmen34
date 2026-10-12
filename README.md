@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b8e,100:1e3c72&height=200&section=header&text=Truong%20Van%20Men&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20%7C%20Computational%20Biology%20%7C%20Drug%20Discovery&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b8e,100:1e3c72&height=200&section=header&text=Ngoc%20Thach%20Nguyen&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20%7C%20Computational%20Biology%20%7C%20Drug%20Discovery&descAlignY=58&descSize=16" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=truongvanmen34&label=Profile%20Views&color=0f9b8e&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/truongvanmen34?style=flat-square&color=1e3c72)
@@ -13,6 +13,11 @@
 - 🧪 Interested in **drug discovery**, structural biology and machine learning for biomolecules
 - 🌱 Currently learning: deep learning for molecules, NGS pipelines, workflow automation
 - 📫 Reach me: see links below
+
+## 🌐 Connect
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3314--0161-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-3314-0161)
+[![Email](https://img.shields.io/badge/Email-nnthach.3108%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnthach.3108@gmail.com)
 
 ## 🛠️ Tech Stack
 
