@@ -4,8 +4,6 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3314--0161-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-3314-0161)
 [![Email](https://img.shields.io/badge/Email-nnthach.3108%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nnthach.3108@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=truongvanmen34&style=flat-square&color=2c5364)
-
 🔬 Molecular docking · Protein–ligand interaction · Cheminformatics · ML for biomolecules
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
