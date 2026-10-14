@@ -6,8 +6,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;&nbsp;![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)&nbsp;&nbsp;![RDKit](https://img.shields.io/badge/RDKit-3E7FB0?style=flat-square)&nbsp;&nbsp;![AutoDock](https://img.shields.io/badge/AutoDock-5C2D91?style=flat-square)&nbsp;&nbsp;![GROMACS](https://img.shields.io/badge/GROMACS-1A5E9A?style=flat-square)&nbsp;&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<sub><b>Publication</b> &nbsp;·&nbsp; Nguyễn Hoàng Phương, …, <b>Nguyễn Ngọc Thạch</b>, Thái Khắc Minh. <i>Tái định vị các hợp chất ức chế TNF-α từ ngân hàng thuốc DrugBank bằng mô hình mạng thần kinh tích chập kết hợp mô phỏng gắn kết phân tử</i>. Tạp chí Y Dược học, 74, 4/2026, tr. 16.</sub>
-
 <img src="https://github-readme-stats.vercel.app/api?username=truongvanmen34&show_icons=true&theme=tokyonight&hide_border=true&height=150" height="150" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
